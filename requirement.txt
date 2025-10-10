@@ -1,0 +1,8 @@
+transformers
+torch
+requests
+json
+fastapi
+fastapi.responses
+pydantic
+asyncio

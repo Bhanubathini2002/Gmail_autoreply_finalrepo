@@ -1,0 +1,119 @@
+Bhanu Prakash Bathini
+ AI Engineer
+
+
+ 
+    +1 660 528 2536
+  LinkedIn: 
+
+Objective
+                
+With over 5+ years of experience as an AI/ML/Generative AI Engineer, I have delivered complete model lifecycle solutions on AWS Cloud, consistently adhering to production standards. I excel in building Generative AI systems using LLMs like OpenAI’s ChatGPT, Google Gemini, Meta LLaMA2, Hugging Face, and SparkNLP. My strengths include industry-standard approaches for experimentation, guiderails, cache strategies, model gateways, vector database oversight and observability, as well as robust logging, monitoring, and tracing. I am adept at prompt engineering, agents and tooling, retrieval augmented generation (RAG), and fine-tuning for high-performing AI solutions.
+
+ Professional Experience
+                 
+  
+Delivered ML and Generative AI solutions on AWS by integrating models with Amazon Bedrock, Prompt orchestration (Step Functions/Lambda), and Amazon Kendra for business applications.
+Used custom Python scripts to integrate Amazon Kendra for indexing, preprocessing, and improving hybrid/vector search relevance.
+Built automated workflows with AWS Step Functions, AWS Lambda, and Python to handle real-time data ingestion and keep search indexes synchronized.
+Created optimized indexing pipelines with Kendra Data Sources and incremental syncs, applying performance tuning to reduce latency and improve retrieval speed.
+Designed scalable RAG architectures with LangChain, CrewAI, LangSmith, and LangServe to enable context-aware AI decision making.
+Implemented RAG pipelines with Amazon SageMaker and EKS to support scalable model inference.
+Built dynamic prompt orchestration using Lambda/Step Functions to control LLM interactions with retrieved content.
+Connected Amazon Bedrock (Anthropic, Meta, Cohere, Amazon Titan) to generate context-aware responses using LLMs.
+Applied prompt engineering techniques to improve the quality and accuracy of AI outputs in real-world use cases.
+Designed and refined prompts for chatbots and AI agents to deliver clear and relevant answers for various user needs.
+Delivered end-to-end, production-grade AI solutions using Amazon Bedrock, Amazon Textract/Comprehend, and Amazon Kendra, emphasizing Applied AI to meet specific business needs.
+Developed scalable backend systems and APIs, integrating MongoDB (Amazon DocumentDB/Mongo Atlas on AWS) for efficient data management and enabling seamless interaction with AI services.
+Built and maintained scalable backend systems and APIs, utilizing MongoDB for efficient data management to support and integrate with AI services for seamless interaction.
+Directed the full development and deployment cycle of production-ready AI/ML solutions, employing Python, TensorFlow/PyTorch, and comprehensive MLOps strategies across AWS, Azure, and GCP while ensuring performance, security, and reliability.
+Created high-performance data pipelines and integrated enterprise AI systems with technologies like AWS Glue, EMR (Spark), Docker/Kubernetes, optimizing the entire workflow for data, model training, and large-scale inference.
+Developed and deployed NLP and LLM-based applications, utilizing advanced techniques like prompt engineering and context-aware retrieval, with a strong focus on ethical AI, compliance, and cross-functional integration.
+Built multi-agent RAG architectures with LangChain Agents and VectorDB (Amazon Kendra, OpenSearch Serverless Vector Engine, BigQueryVectorStore) to support contextual awareness and memory in enterprise chatbots.
+Boosted chatbot accuracy and user engagement by integrating autonomous agents with vector databases for real-time data retrieval, task orchestration, and dynamic response generation.
+Specialized in Agentic AI design, creating intelligent, autonomous conversational agents that plan, reason, and perform complex tasks using frameworks such as LangChain and CrewAI.
+Integrated LLM-powered chatbots with Amazon Connect, enhancing customer experience in voice and chat by combining real-time conversation, sentiment analysis, and automation.
+Designed and implemented real-time ETL and ML pipelines on AWS using Python and Spark to process data efficiently.
+Built and orchestrated large-scale ML workflows using EKS, Amazon MWAA (Managed Airflow), and Amazon MSK (Managed Kafka) for robust monitoring and automation.
+Created scalable big data pipelines with Amazon EMR (Hadoop/Spark) and other distributed frameworks for efficient data transformation and ingestion.
+Deployed high-performance AI APIs and backend inference services with RESTful interfaces and Protocol Buffers for high-throughput, low-latency communication.
+Configured Amazon CloudWatch, X-Ray, and AWS Distro for OpenTelemetry to track system performance, ensuring high reliability and stability.
+Engineered scalable data storage and retrieval systems by integrating Amazon S3 and Amazon RDS/Aurora to handle large datasets.
+Delivered business-integrated AI solutions by leveraging OpenAI APIs (GPT, DALL·E) and Amazon Bedrock for multi-model orchestration.
+Architected and deployed an enterprise-grade travel chatbot using a Retrieval-Augmented Generation (RAG) architecture, leveraging AWS AI services for real-time query resolution and personalized recommendations.
+Built scalable data pipelines and embeddings workflows with Amazon Bedrock, SageMaker, and cloud-native tools, significantly improving information retrieval and the conversational accuracy of the chatbot.
+Established MLOps best practices for end-to-end model deployment, creating a framework for continuous integration, monitoring, and iterative improvement of the chatbot across hybrid cloud environments.
+Collaborated with cross-functional teams, including product, NLP engineers, and cloud architects, to align AI outputs with travel-specific business objectives, driving measurable user engagement.
+Fine-tuned and evaluated conversational AI chatbots for domain-specific applications, ensuring high performance and accuracy.
+Deployed a production-grade fraud detection system on Amazon EKS, using AWS CodePipeline/CodeBuild for automated CI/CD to enable real-time, low-latency decisions in online banking.
+Defined and executed AI strategies and roadmaps, aligning with business goals to achieve measurable impact.
+Led the integration of GenAI, RAG, and LLM solutions into existing enterprise systems by collaborating with cross-functional teams.
+Developed modular and reusable RAG pipeline components for efficient integration with enterprise workflows.
+Implemented AWS Secrets Manager and AWS KMS for secure credential and secret management across all AI systems.
+Managed large-scale data processing using AWS Glue and AWS Data Pipeline/Airflow (MWAA) to handle ETL for complex AI pipelines.
+Created and monitored key performance indicators (KPIs) for AI deployments with CloudWatch dashboards and SageMaker Model Monitor, guiding continuous performance tracking and retraining strategies.
+Bridged technical and non-technical teams by conducting Agentic AI research and creating clear, accessible documentation.
+
+
+Technical Skills
+                
+Programming and Scripting Languages: Python - NumPy, Pandas, Scikit, Polars, Matplotlib, Seaborn, TensorFlow, Artificial Neural Network, PyTorch, TypeScript, LSTM, SQL, Generative Al-ChatGPT, Prompt Engineering, JavaScript,FastAPI, Flask, Streamlit, Gradio.
+Data Management and Other Tools: Neo4j, AWS Open Search, Pinecone, DataBricks.
+Development and Deployment Tools: Git, GitHub, CI/CD, SageMaker, S3, Jenkins, Kubernetes, Docker, Postman, Swagger
+Website Development Tools: JavaScript, HTML, CSS, Angular, React.js, Visual Studio.
+Big Data Tools: Databricks, Spark
+Cloud Computing: Amazon Web Services(SageMaker, Bedrock, S3, Lambda, Step Functions), Azure, GCP, SPSS, Agile, Jira, Scrum, Kanban, Unit Testing, UAT.
+Analytics & Visualization: Tableau, Power BI, Power Automate, SAS, Power Query, DAX, Tableau, ETL Pipelines, Microsoft Excel (Advanced), SharePoint
+Agentic Frameworks: LangChain, CrewAI, AutoGen
+Algorithms: Machine Learning Algorithm, Deep Learning Model, LLM models.
+AI Engineer| Mondee Travel | Jan 2023 – May 2025
+Architected and deployed multi-agent orchestration frameworks with CrewAI and LangGraph on AWS, automating complex decision-making and project workflows via Step Functions and Lambda.
+Developed a user-friendly trip planning chatbot by building AI agents with Python frameworks like LangGraph and CrewAI, deployed in Docker on Amazon EKS.
+Customized CrewAI agents to perform advanced tasks such as summarization, entity extraction, and predictive analytics using Amazon Comprehend and custom SageMaker endpoints.
+Enhanced conversational capabilities by integrating CrewAI with LangChain memory stored in DynamoDB, allowing agents to maintain context over long interactions.
+Optimized agent performance by implementing parallel task execution through AWS Batch, significantly reducing processing times for multi-step workflows.
+Led the architectural design and deployment of an end-to-end RAG pipeline to process large volumes of documents using Amazon Kendra and Amazon Bedrock.
+Developed a robust data ingestion workflow that chunks documents, stores them in S3, and generates embeddings using SageMaker’s text-embedding-model.
+Implemented a high-performance indexing pipeline that ingests embeddings into Amazon Kendra Vector Index and uses vector filtering for highly relevant document retrieval.
+Ensured secure and scalable access by deploying the system within a VPC, managing credentials with AWS Secrets Manager and fine-grained IAM policies.
+Automated the entire document processing workflow using Step Functions and Python-based orchestration, with retries and error handling built in.
+Built and integrated a user-facing API with API Gateway and Lambda, enabling applications to use Bedrock-powered models for powerful query processing and information retrieval.
+Enhanced document retrieval precision by using SageMaker-generated embeddings for query vectors and tuning Kendra index relevance settings.
+Designed advanced prompt engineering strategies for an enterprise-grade travel chatbot to ensure accurate, contextual responses from a RAG architecture on AWS.
+Orchestrated complex multi-agent workflows using CrewAI and LangChain Agents, enabling dynamic task delegation for travel-related use cases such as flight rescheduling and hotel booking.
+Utilized Bedrock models for NLP tasks such as summarization, Q&A, and sophisticated document-based reasoning within Lambda functions.
+Engineered a scalable search solution by configuring Amazon Kendra vector indexing for fast and accurate semantic searches.
+Created a responsive search API by integrating Kendra with FastAPI hosted on Fargate for real-time applications.
+Automated data enrichment for search workflows by triggering Lambdas on S3 events to prepare documents dynamically for indexing.
+Developed a Retrieval-Augmented chatbot using LangChain Agents and SageMaker that provides multi-turn conversations by accessing real-time data from DynamoDB and Pinecone.
+Built an autonomous, task-driven AI assistant that scrapes content via Lambda and synthesizes context-aware responses, demonstrated through a Gradio UI hosted on EC2.
+Orchestrated data ingestion workflows into Kendra by leveraging SQS for messaging and Lambda for task management.
+Reduced data latency by configuring S3 event notifications to trigger real-time indexing Lambdas.
+Engineered a fault-tolerant search indexing system by implementing messaging with SNS and SQS to handle large data flows.
+Designed end-to-end workflows combining S3, Lambda, and SQS to ensure high availability and reliability of search indexing processes.
+Automated the data ingestion and indexing lifecycle to provide continuous updates and ensure all search data remained current.
+Managed deployment of containerized applications with Docker and AWS CodeBuild/CodePipeline to streamline development, testing, and production environments.
+
+ML Engineer | Cosmic Reality | April 2020 – Nov 2022
+Built high-performance RESTful APIs using asynchronous FastAPI and Flask, containerized with Docker, and deployed on AWS Fargate for scalable application hosting.
+Enhanced API security and reliability by automating data validation, serialization, and error handling in FastAPI apps, leveraging AWS WAF and API Gateway.
+Prepared data for analysis by performing preprocessing tasks—text simplification, summarization, stemming, and lemmatization—using Python and AWS Lambda functions to improve model readiness.
+Processed and analyzed large datasets with AWS EMR (Spark), AWS Glue (PySpark), Amazon Athena (Presto), and Amazon S3 storage.
+Managed data storage and retrieval by designing SQL schemas in Amazon RDS, writing optimized queries and stored procedures, and using Amazon Aurora for high availability.
+Enhanced database performance by tuning Amazon RDS parameters and implementing indexing strategies to efficiently support high-traffic API endpoints.
+Conducted numerical and statistical analysis using NumPy within AWS Batch jobs for efficient large-scale matrix computations.
+Engineered robust ETL pipelines with Pandas and PySpark on AWS Glue to clean, transform, and preprocess large datasets.
+Developed advanced NLP solutions—Bag of Words, N-Grams, TF-IDF, and embedding generation with SpaCy, NLTK, and BERT—running inference on Amazon SageMaker endpoints.
+Built and deployed multi-agent workflows using LangChain on AWS Lambda and Step Functions, improving task orchestration and overall efficiency.
+Optimized Retrieval-Augmented Generation (RAG) scalability by configuring inter-agent communication with Amazon MQ and AWS SQS to enhance performance and resource utilization.
+Engineered monitoring and logging for multi-agent systems with Amazon CloudWatch, AWS X-Ray, and OpenTelemetry on AWS Distro, ensuring traceability and fault tolerance.
+Deployed and managed scalable APIs on AWS Elastic Beanstalk and EC2 (IIS) instances, ensuring high reliability across cloud and on-premises environments.
+Accelerated model training by leveraging GPU-accelerated Amazon EC2 P-series instances and EMR clusters for high-performance processing.
+Enabled seamless data analysis workflows by integrating R scripts via AWS Glue Python shell jobs and Conda environments.
+Improved ML development with managed Jupyter notebooks on Amazon SageMaker Studio and custom Zeppelin/EMR notebooks.
+Managed and optimized bulk data uploads to S3 using the boto3 SDK and AWS DataSync for reliable, high-throughput transfers.
+
+Education
+                
+Northwest Missouri State University – Maryville, MO - Master of Science  			    	       	
+Vellore Institute of Technology – Vellore, India - Bachelor’s in Computer Science

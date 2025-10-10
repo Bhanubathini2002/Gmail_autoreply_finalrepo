@@ -1,0 +1,107 @@
+© GB Linkedin
+
+16°F
+Clear
+
+Machine Learning Algorithms
+
+Machine Learning
+
+(Every data scientist must know)
+
+Naive Bayes
+
+Logistic Regression
+
+K-Nearest Neighbor (KNN)
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+Decision Tree
+
+Regression
+
+Simple Linear Regression
+
+Unsupervised
+
+Clustering
+
+Association
+
+| _-{Lredient Patter growth
+, f
+
+Multivariate Regression
+
+Lasso Regression
+
+K-Means Clustering
+
+DBSCAN Algorithm
+
+Principal Component Analysis
+
+Independent Component Analysis.
+
+__Z-score Algorithm
+
+Isolation Forest Algorithm
+
+Classification
+
+Regression
+
+Self-Training
+Co-Training
+
+Policy Optimization
+
+Q-learning
+
+Learn the Model
+
+P Ananya Verma : 3rd+
+Senior Data Engineer at Ac...
+
+sd-®
+
+Mastering Machine Learning Algorithms — A
+
++ Follow X
+
+Roadmap for Every Data Scientist
+
+Machine Learning is vast, but at its core, it revolves
+around a set of fundamental algorithms.
+Understanding when and how to apply them is
+what separates a good data scientist from a great
+one.
+
+© Supervised Learning
+
+* Classification: Naive Bayes, Logistic Regression,
+KNN, Random Forest, SVM, Decision Trees — Best
+for predicting categories like spam detection or
+medical diagnosis ...more
+
+@GO 1,065 9 comments - 72 reposts
+
+WS Like 4 Send
+
+© @
+
+© comment & Repost
+
+3 Add a comment...
+
+RA ant wala
+
+12:20 AM
+
+eSaeFrgaenasx A FOO sop 005
+
+v
+y
