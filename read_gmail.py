@@ -16,6 +16,7 @@ from PIL import Image
 import pytesseract
 from PIL import Image
 import pytesseract
+from vector_store import GmailVectorStore as EmailVectorDB
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
@@ -296,7 +297,6 @@ def extract_text_from_image(image_bytes: bytes) -> str:
 #mail content to embeding to vector db
 # read_gmail.py  (top of file)
 from embedder import OllamaEmbedder
-from vector_db import EmailVectorDB
 # e.g., right after your Google auth setup
 embedder = OllamaEmbedder()        # uses nomic-embed-text by default
 vecdb = EmailVectorDB()            # local file data/email_vectors.db
