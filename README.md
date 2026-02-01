@@ -1,12 +1,32 @@
 # Gmail-Assistant
 
+# Gmail AI Assistant  
+### Local-first Gmail auto-reply drafts with RAG (Ollama + Milvus)
 
-Gmail AI Assistant – Project Overview
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
+</p>
 
-This project is a fully AI-powered Gmail automation system that connects Gmail, Ollama, and Milvus to create an intelligent email assistant. It securely links to your Gmail account and automatically reads incoming emails. Each email is then processed and transformed into numerical vector embeddings using a local Ollama model, such as Llama or Mistral.
+<p>
+  <b>Read emails → Embed → Store in Milvus → Retrieve context → Draft a smart reply (human-in-the-loop)</b>
+</p>
 
-These embeddings are stored and managed in Milvus, a high-performance vector database that helps the system understand the meaning and relationships between emails. When a new message arrives, the assistant retrieves relevant context from Milvus and generates a smart, context-aware reply using Ollama’s language model.
+</div>
 
-The generated response is then saved as a draft in Gmail, allowing users to review and send it manually. The system’s modular structure makes it easy to modify or extend individual components, such as the email reader, embedding generator, database connector, or reply module.
+---
 
-Overall, this project demonstrates how local AI models and vector databases can work together to create a privacy-focused, context-aware email assistant capable of understanding, managing, and responding to real conversations intelligently.
+## Preview
+- Draft replies with context from similar past emails.
+- Runs locally (privacy-friendly), saves output as drafts for review.
+
+---
+
+## Features
+- Gmail email reader (fetch + parse).
+- Vector embeddings + semantic search (Milvus).
+- Local LLM reply drafting (Ollama).
+- Modular pipeline (easy to swap models / prompts / storage).
+
+---
