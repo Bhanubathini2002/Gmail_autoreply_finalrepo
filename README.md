@@ -1,5 +1,3 @@
-# Gmail-Assistant
-
 # Gmail AI Assistant  
 ### Local-first Gmail auto-reply drafts with RAG (Ollama + Milvus)
 
